@@ -1,0 +1,7 @@
+NĂŠv;JAzon;EĂra;EPerc;VĂra;Vperc
+Bence;F;10;15;10;55
+BenjĂĄmin;F;10;42;11;10
+Zsombor;F;11;16;11;40
+DĂĄniel;F;11;52;12;2
+Kata;F;12;48;13;47
+Levente;F;15;0;16;0
